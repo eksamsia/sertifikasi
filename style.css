@@ -1,0 +1,8 @@
+.body {
+    min-height: 2000px;
+    background: linear-gradient(135deg, rgb(78, 120, 148) 10% , rgb(22, 49, 202) 100%);
+  }
+  .jumbotron {
+    padding-top: 2rem;
+    background-color: #bae0e2;
+  }
